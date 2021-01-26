@@ -2,10 +2,8 @@
   package="com.propertyapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
     <application
       android:name=".MainApplication"
@@ -14,10 +12,6 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme">
-
-      <meta-data
-        android:name="com.google.android.geo.API_KEY"
-        android:value="Your Google maps API Key Here"/>
       
       <uses-library android:name="org.apache.http.legacy" android:required="false"/>
 
