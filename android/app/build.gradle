@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rn_template_v2"
+        applicationId "com.propertyapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

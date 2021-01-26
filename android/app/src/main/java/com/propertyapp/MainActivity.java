@@ -1,4 +1,4 @@
-package com.rn_template_v2;
+package com.propertyapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
