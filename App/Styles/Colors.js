@@ -15,16 +15,6 @@ export default {
   error: '#dc3545',
 
   primary: '#0D4B8D',
-  primarySoft: '#5CC273',
-  primaryLight: '#E8F4EC',
-
-  secondary: '#e1ae60',
-  secondarySoft: '#e1ae60',
-  secondaryLight: '#e1ae60',
-
-  danger: '#d30e0e',
-
-  blue: '#295290',
 
   white: '#ffffff',
   whiteSmoke: '#F5F5F5',

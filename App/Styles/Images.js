@@ -6,7 +6,6 @@ const IMAGES_PATH = 'App/Assets/Images/';
 const ICONS_PATH = 'App/Assets/Icons/';
 
 export default {
-  app_logo: require(IMAGES_PATH + 'spacestock.png'),
   user_default: require(IMAGES_PATH + 'user_default.jpg'),
   exp_service_1: require(IMAGES_PATH + 'exp-service-1.png'),
   exp_service_2: require(IMAGES_PATH + 'exp-service-2.png'),
