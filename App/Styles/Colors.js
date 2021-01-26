@@ -14,7 +14,7 @@ export default {
   success: '#28a745',
   error: '#dc3545',
 
-  primary: '#249146',
+  primary: '#0D4B8D',
   primarySoft: '#5CC273',
   primaryLight: '#E8F4EC',
 
