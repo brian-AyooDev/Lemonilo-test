@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "rn_template_v2";
+    return "PropertyApp";
   }
 
   @Override
