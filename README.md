@@ -1,31 +1,27 @@
-# Bryn React Native Project Template (Cloned and edit from Ajhoel Template)
+# PropertyApp (Test Project for Lemonilo - Software Engineer)
 
 After Pull:<br>
 1. `yarn install`
 
 Additional step (for iOS):<br>
-4. `cd ios`
-5. `pod install`
-6. `cd ..`
+2. `cd ios`
+3. `pod install`
+4. `cd ..`
 
-7. `react-native run-ios` / `react-native run-android`
+5. `react-native run-ios` / `react-native run-android`
 
 Project information:<br>
 1. React Native v.0.63.0
 
 Packages Include:<br>
-1. [Native Base v.2.13.12](https://nativebase.io)
-2. [React Native Vector Icons v.7.0.0](https://github.com/oblador/react-native-vector-icons)
-3. [React Native Image Crop Picker v.0.32.2](https://github.com/ivpusic/react-native-image-crop-picker)
-4. [React Navigation v.4.4.0](https://reactnavigation.org/docs/4.x/getting-started)
-5. Redux (Includes: react-redux, redux, redux-logger, redux-thunk)
-6. [React Native Maps v0.27.1](https://github.com/react-native-community/react-native-maps)
-7. [React Native Camera v3.31.0](https://github.com/react-native-community/react-native-camera)
-8. [React Native Global Props v1.1.5](https://github.com/Ajackster/react-native-global-props)
-9. [React Native Async Storage v1.11.0](https://github.com/react-native-community/async-storage)
-10. [React Native DateTimePicker v2.6.0](https://github.com/react-native-community/datetimepicker)
-11. [React Native Net Info v5.9.4](https://github.com/react-native-community/netinfo)
-12. [Moment.js v2.27.0](https://momentjs.com/)
+1. [Native Base v.2.15.2](https://nativebase.io)
+3. [React Navigation v.4.4.0](https://reactnavigation.org/docs/4.x/getting-started)
+4. Redux (Includes: react-redux, redux, redux-logger, redux-thunk)
+5. [React Native Global Props v1.1.5](https://github.com/Ajackster/react-native-global-props)
+6. [React Native Async Storage v1.11.0](https://github.com/react-native-community/async-storage)
+7. [React Native DateTimePicker v2.6.0](https://github.com/react-native-community/datetimepicker)
+8. [React Native Net Info v5.9.4](https://github.com/react-native-community/netinfo)
+9. [Moment.js v2.27.0](https://momentjs.com/)
 
 Included Examples:<br>
 1. Navigator Examples
