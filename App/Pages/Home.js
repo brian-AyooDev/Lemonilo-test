@@ -1307,7 +1307,6 @@ const pickerSelectStyles = StyleSheet.create({
     paddingRight: 30, // to ensure the text is never behind the icon
   },
   inputAndroid: {
-    width: width - 60,
     alignContent: 'center',
     alignItems: 'center',
     height: 40,
